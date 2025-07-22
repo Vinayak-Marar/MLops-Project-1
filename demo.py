@@ -15,11 +15,12 @@
 
 #----------------------------------------------------------------------------------------
 # test DataIngestiion
-from us_visa.entity.artifact_entity import DataIngestionArtifact
-from us_visa.entity.config_entity import DataIngestionConfig
-from us_visa.components.data_ingestion import DataIngestion
+# from us_visa.entity.artifact_entity import DataIngestionArtifact
+# from us_visa.entity.config_entity import DataIngestionConfig
+# from us_visa.components.data_ingestion import DataIngestion
 
-data_ingestion_config = DataIngestionConfig()
-data_ingestion = DataIngestion(data_ingestion_config)
-result = data_ingestion.initiate_data_ingestion()
-print(result)
+# data_ingestion_config = DataIngestionConfig()
+# data_ingestion = DataIngestion(data_ingestion_config)
+# result = data_ingestion.initiate_data_ingestion()
+
+# print(result)
